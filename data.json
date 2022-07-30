@@ -1,0 +1,1142 @@
+[
+    {
+        "videoTitle": "Complete web development with Node and React in hindi | Beginner to Interview Ready |Web Development",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Crack any Web development interview with this strategy | Web Development in Hindi",
+        "duration": 5
+    },
+    {
+        "videoTitle": "Installing Vscode Node.js Git | Web Development in Hindi",
+        "duration": 5
+    },
+    {
+        "videoTitle": "Practical Introduction to JavaScript| JavaScript | Web development in Hindi",
+        "duration": 48
+    },
+    {
+        "videoTitle": "Practical Introduction to Node.js | | Node.js | Web Development in Hindi",
+        "duration": 49
+    },
+    {
+        "videoTitle": "File System organizer | Node.js Project under 1 hour | Node.js| Web Development in Hindi",
+        "duration": 65
+    },
+    {
+        "videoTitle": "Nodejs Challenge 🚀🚀| Ab aapki bari | Web Development in Hindi | Node.js",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Node.js Challenge Solution🚀🚀| CAT command| NodeJS | Web Development in Hindi",
+        "duration": 40
+    },
+    {
+        "videoTitle": "JavaScript Interview Series in Hindi |Become interview ready in JavaScript & Web development",
+        "duration": 4
+    },
+    {
+        "videoTitle": "What actually is JavaScript ??😕😕| JavaScript Interview Series in Hindi",
+        "duration": 13
+    },
+    {
+        "videoTitle": "Types of function in JavasScript ft (First class citizens)| JavaScript Interview series in Hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "JavaScript code execution | Hoisting |Execution Context| JavaScript Interview series in Hindi",
+        "duration": 17
+    },
+    {
+        "videoTitle": "JavaScript Interview Question| Lexical scope and scope chain | JavaScript Interview series in Hindi",
+        "duration": 26
+    },
+    {
+        "videoTitle": "JavaScript Interview Questions on var keyword & function scope with in depth explanation| JavaScript",
+        "duration": 13
+    },
+    {
+        "videoTitle": "JavaScript Interview Questions|var let const with in depth explanation| JavaScript interview series",
+        "duration": 22
+    },
+    {
+        "videoTitle": "Everything is Object or primitive JavaScript | JavaScript Interview Series in Hindi",
+        "duration": 18
+    },
+    {
+        "videoTitle": "Practical Introduction to Web Scraping with Node.js | Cheerio Request| Web Development in Hindi",
+        "duration": 67
+    },
+    {
+        "videoTitle": "Insights you need to become good at web scraping| Web scraping with JS |Web Development in Hindi",
+        "duration": 69
+    },
+    {
+        "videoTitle": "Build ESPN Cricinfo webscraper that scrapes whole IPL 😍😍 using NodeJS| Web Development in Hindi",
+        "duration": 62
+    },
+    {
+        "videoTitle": "Practical Introduction to JSON and Excel files using NodeJS | Web Development in Hindi",
+        "duration": 36
+    },
+    {
+        "videoTitle": "GitHub web scraper for open source developer🔥🔥 | Node.js Project | Web development in Hindi",
+        "duration": 60
+    },
+    {
+        "videoTitle": "Web Scraping Challenge 🔥🔥|Ab aapki baari | Web development in Hindi",
+        "duration": 6
+    },
+    {
+        "videoTitle": "Practical Introduction to Promises | Promise in javascript for dummies | Web Development in Hindi",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Browser Automation Trailer |videos will start from tomorrow 7PM |",
+        "duration": 4
+    },
+    {
+        "videoTitle": "Practical Introduction to Automation with Node.js and puppeteer| Web Development in Hindi",
+        "duration": 43
+    },
+    {
+        "videoTitle": "Hackerrank automation Trailer | Web Development in Hindi",
+        "duration": 2
+    },
+    {
+        "videoTitle": "Hackerrank Automation |Resume Project using JS and Puppeteer |Web Development in Hindi",
+        "duration": 73
+    },
+    {
+        "videoTitle": "Practical Introduction to async await | Web Development in Hindi",
+        "duration": 20
+    },
+    {
+        "videoTitle": "Hacker Rank Code Submission with Async Await",
+        "duration": 21
+    },
+    {
+        "videoTitle": "Youtube Playlist analyzer | Resume Project | Web Development in Hindi",
+        "duration": 59
+    },
+    {
+        "videoTitle": "Introduction to functional Programming ft Pure Functions",
+        "duration": 29
+    },
+    {
+        "videoTitle": "Higher Order Functions (map , filter , reduce)| JavaScript Interview Series in Hindi",
+        "duration": 14
+    },
+    {
+        "videoTitle": "Polyfills of map , filter & reduce | Web Development in Hindi",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Closures in Javascript | important interview concept",
+        "duration": 11
+    },
+    {
+        "videoTitle": "Prototype and Polyfills of Map Filter and Reduce",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Introduction to OOPS in Javascript | JavaScript interview series",
+        "duration": 5
+    },
+    {
+        "videoTitle": "Learn 'this' Like Never before |Javascript interview series",
+        "duration": 31
+    },
+    {
+        "videoTitle": "Call Apply and Bind |Javascript interview series",
+        "duration": 18
+    },
+    {
+        "videoTitle": "Function currying with bind method ft Closures | Javascript interview series",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Bind Polyfill with function Prototype",
+        "duration": 18
+    },
+    {
+        "videoTitle": "Constructor Functions in JavaScript",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Prototype and Prototypal Inheritence",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Creating Objects with Classes and Constructors",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Sync and Async programming with callbacks ft. event loop",
+        "duration": 23
+    },
+    {
+        "videoTitle": "Serial and Parallel execution of Code with callbacks ft. Event Loop",
+        "duration": 24
+    },
+    {
+        "videoTitle": "SetTimeout and SetInterval Ft. setInterval Polyfill",
+        "duration": 31
+    },
+    {
+        "videoTitle": "Create your own Implementation of Promise",
+        "duration": 24
+    },
+    {
+        "videoTitle": "what is the micro Task Queue",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Promises and its functions",
+        "duration": 30
+    },
+    {
+        "videoTitle": "Read Limited Files with Promises Parallely and serially",
+        "duration": 20
+    },
+    {
+        "videoTitle": "Read n number of files with Promises Parallely and serially",
+        "duration": 17
+    },
+    {
+        "videoTitle": "Promises Over Callbacks",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Null Vs Undefined Vs not defined",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Comparision operators and Truthy Falsy Values",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Shallow Copy and Deep copy from Every Method Possible",
+        "duration": 24
+    },
+    {
+        "videoTitle": "Flatten an object",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Array.isArray method",
+        "duration": 6
+    },
+    {
+        "videoTitle": "Promises Interview questions",
+        "duration": 11
+    },
+    {
+        "videoTitle": "Async Await Interview Questions",
+        "duration": 18
+    },
+    {
+        "videoTitle": "Some More Fun with Closures",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Creating a Private Variable with Closure",
+        "duration": 10
+    },
+    {
+        "videoTitle": "Closures and Scope Interview Questions",
+        "duration": 17
+    },
+    {
+        "videoTitle": "Course overview | Build real world web apps with HTML CSS and Browser Apis|Web Dev in Hindi",
+        "duration": 16
+    },
+    {
+        "videoTitle": "HTML CSS Overview",
+        "duration": 42
+    },
+    {
+        "videoTitle": "CSS Units px, rem, em, vh, vw | Absolute Vs Relative Units | CSS Core concepts | Web Dev In Hindi",
+        "duration": 21
+    },
+    {
+        "videoTitle": "CSS Box-model | Content, Padding, Border, Margin | CSS Core Concepts | Web Dev In Hindi",
+        "duration": 17
+    },
+    {
+        "videoTitle": "CSS Display Property | Block, Inline, Inline-Block | CSS Core Concepts | Web Dev In Hindi",
+        "duration": 14
+    },
+    {
+        "videoTitle": "Css Positioning | Static, Relative, Absolute, Fixed, Sticky | CSS Core Concepts | Web Dev In Hindi",
+        "duration": 29
+    },
+    {
+        "videoTitle": "CSS Flexbox (In-depth) | Axis, Justification, Alignment, Space Distribution, | CSS Core Concepts",
+        "duration": 29
+    },
+    {
+        "videoTitle": "CSS Flexbox Practical (In-depth) | By Playing Game | CSS Core Concepts | Web Dev In Hindi",
+        "duration": 29
+    },
+    {
+        "videoTitle": "CSS Box-sizing, Default Styling | CSS Core Concepts | Web Dev In Hindi",
+        "duration": 14
+    },
+    {
+        "videoTitle": "CSS Media Queries | Firing External CSS (Responsiveness) | CSS Core Concepts | Web Dev In Hindi",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Browser Event Listeners | Practical Task-1 | DOM Methods & Properties | Web Dev In Hindi",
+        "duration": 12
+    },
+    {
+        "videoTitle": "HTML Collection Vs NodeList Vs Array | Practical Task-2 | DOM Methods & Properties |Web Dev In Hindi",
+        "duration": 11
+    },
+    {
+        "videoTitle": "DOM Methods & Properties | Diff in SetAttribute & classList's add method | Practical Task-3",
+        "duration": 12
+    },
+    {
+        "videoTitle": "CSS Styling via DOM (Style Object) | children Vs childNodes | Practical Task-4 | Web Dev In Hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Difference in Sibling Nodes & Sibling Elements | Practical Task-5 | DOM Methods & Properties",
+        "duration": 14
+    },
+    {
+        "videoTitle": "Google & Resolve | Practical Task-6 | DOM Methods & Properties | Web Dev In Hindi",
+        "duration": 5
+    },
+    {
+        "videoTitle": "Browser Events (In-depth) | Bubbling, Capturing, Target | Event Phases | Web Dev In Hindi",
+        "duration": 35
+    },
+    {
+        "videoTitle": "Applying Browser Events Concepts | Practical Task-7 | Web Dev In Hindi",
+        "duration": 3
+    },
+    {
+        "videoTitle": "Understanding Window Sizing & Scrolling | Practical Task-8 | DOM Methods & Props | Web Dev In Hindi",
+        "duration": 29
+    },
+    {
+        "videoTitle": "Implementing DOM Methods & Properties | Practical Task-9 | Web Dev In Hindi",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Exploring Keyboard Events | Practical Task-10 | DOM Methods & Properties | Web Dev In Hindi",
+        "duration": 13
+    },
+    {
+        "videoTitle": "Resolve logically via DOM Methods & Properties | Practical Task-11 | Web Dev In Hindi",
+        "duration": 10
+    },
+    {
+        "videoTitle": "Browser Events Prevent Default | Practical Task-12 | DOM Methods & Properties | Web Dev In Hindi",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Firing CSS without Media Queries | Practical Task-13 | DOM Methods & Properties | Web Dev In Hindi",
+        "duration": 6
+    },
+    {
+        "videoTitle": "Implement Countdown Timer | Practical Task-14 | DOM Methods & Properties | Web Dev In Hindi",
+        "duration": 6
+    },
+    {
+        "videoTitle": "Implement Loading Animations | Practical Task-15 | DOM Methods & Properties | Web Dev In Hindi",
+        "duration": 23
+    },
+    {
+        "videoTitle": "Teaser Alert!! JIRA Ticket Management Clone Project | Browser Module | Web Development In Hindi",
+        "duration": 2
+    },
+    {
+        "videoTitle": "JIRA Ticket Management Project | Part-1 | HTML CSS Structuring | Browser Module | Web Dev In Hindi",
+        "duration": 88
+    },
+    {
+        "videoTitle": "JIRA Ticket Project | Part-2 | DOM Implementation & Manipulation | Browser Module | Web Dev In Hindi",
+        "duration": 86
+    },
+    {
+        "videoTitle": "JIRA Ticket Management Project | Part-3 | Local Storage API | Browser Module | Web Dev In Hindi",
+        "duration": 37
+    },
+    {
+        "videoTitle": "JIRA Ticket Project | Part-4 | Responsive Design | Browser Module | Web Dev In Hindi",
+        "duration": 28
+    },
+    {
+        "videoTitle": "Teaser Alert!! Excel Project | Browser Module | Web Development In Hindi",
+        "duration": 5
+    },
+    {
+        "videoTitle": "Excel Project | Part-1 | HTML & CSS Structuring | Browser Module | Web Development In Hindi",
+        "duration": 111
+    },
+    {
+        "videoTitle": "Excel Project | Part-2 | Cells Properties & Storage (2-way Binding) | Browser Module | Web Dev Hindi",
+        "duration": 108
+    },
+    {
+        "videoTitle": "Excel Project | Part-4 | Directed Graph Algo For Cycle Detection | Browser Module | Web Dev In Hindi",
+        "duration": 55
+    },
+    {
+        "videoTitle": "Excel Project | Part-5 | Graph Algo Relation In Project | Browser Module | Web Dev In Hindi",
+        "duration": 72
+    },
+    {
+        "videoTitle": "Excel Project | Part-3 | Formula Evaluation [ Graph relation ] | Browser Module | Web Dev In Hindi",
+        "duration": 83
+    },
+    {
+        "videoTitle": "Excel Project | Part-6 | New Feature!! | Color Tracking with Graph Algo | Browser Module | Web DeV",
+        "duration": 64
+    },
+    {
+        "videoTitle": "Excel Project | Part-7 | Multiple Sheet Management, Data Storage | Browser Module | Web Dev In Hindi",
+        "duration": 63
+    },
+    {
+        "videoTitle": "Excel Project (Endgame!!) | Part-8 | Cut Paste Upload Download | Browser Module | Web Dev In Hindi",
+        "duration": 107
+    },
+    {
+        "videoTitle": "Teaser Alert!! Camera-Gallery Project | Browser Module | Web Development In Hindi",
+        "duration": 3
+    },
+    {
+        "videoTitle": "Camera-Gallery Project | Part-1 | Web APIs - Media Stream API | Browser Module | Web Dev In Hindi",
+        "duration": 80
+    },
+    {
+        "videoTitle": "Camera-Gallery Project | Part-2 | Web APIs - Canvas API | Browser Module | Web Dev In Hindi",
+        "duration": 54
+    },
+    {
+        "videoTitle": "Camera-Gallery Project | Part-3 | Web APIs - IndexedDB API | Browser Module | Web Dev In Hindi",
+        "duration": 111
+    },
+    {
+        "videoTitle": "Teaser Alert!! OpenBoard Project | Browser Module | Web Development In Hindi",
+        "duration": 3
+    },
+    {
+        "videoTitle": "OpenBoard Project | Part-1 | Canvas API, UI Structuring [HTML, CSS] | Browser Module | Web Dev",
+        "duration": 100
+    },
+    {
+        "videoTitle": "OpenBoard Project | Part-2 | Canvas API [Drawing Graphics] | Browser Module | Web Dev",
+        "duration": 48
+    },
+    {
+        "videoTitle": "OpenBoard Project | Part-3 | Socket.io [ Realtime Drawing ], Express | Browser Module | Web Dev",
+        "duration": 55
+    },
+    {
+        "videoTitle": "OpenBoard Project | Part-4 | Heroku Deployment | Realtime Testing | Browser Module | Web Dev",
+        "duration": 21
+    },
+    {
+        "videoTitle": "Debouncing & Throttling | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 54
+    },
+    {
+        "videoTitle": "DOMContentLoaded Vs Load Events | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 25
+    },
+    {
+        "videoTitle": "Defer Vs Async Vs Normal Scripts | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "CSS Background Properties | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Cookies and CSRF Attack!! | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 35
+    },
+    {
+        "videoTitle": "CORS Error!! (Cross Origin Resource Sharing) | Interview Prep | Browser Module | Web Dev",
+        "duration": 40
+    },
+    {
+        "videoTitle": "CSS Selectors Specifity | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 14
+    },
+    {
+        "videoTitle": "CSS Pseudo Classes | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 5
+    },
+    {
+        "videoTitle": "CSS z-index Property | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 7
+    },
+    {
+        "videoTitle": "HTTP Verbs (Methods, Status codes, Status type) | Interview Prep | Browser Module | Web Dev",
+        "duration": 18
+    },
+    {
+        "videoTitle": "XMLHttpRequest Vs Fetch Vs Axios [Network Requests] | Interview Prep | Browser Module | Web Dev",
+        "duration": 31
+    },
+    {
+        "videoTitle": "IndexedDB Storage | Web Storage API | Interview Prep | Browser Module | Web Dev In Hindi",
+        "duration": 56
+    },
+    {
+        "videoTitle": "Local Storage Vs Session Storage | Web Storage API | Interview Prep | Browser Module | Web Dev",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Browser Events [In-depth] | Bubbling, Capturing, Target, Current Target | Interview Prep | Web Dev",
+        "duration": 35
+    },
+    {
+        "videoTitle": "Intro to React Course | React Noob to Pro",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Spread Operator in JS | React Noob to Pro",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Destructuring in JS | React Noob to Pro",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Map & Filter functions | React Noob to Pro",
+        "duration": 13
+    },
+    {
+        "videoTitle": "'this' for React | React Noob to Pro",
+        "duration": 14
+    },
+    {
+        "videoTitle": "React Intro | React Noob to Pro",
+        "duration": 46
+    },
+    {
+        "videoTitle": "Basic Todo App in React | React Noob to Pro",
+        "duration": 33
+    },
+    {
+        "videoTitle": "Movie App 1 | How to use Bootstrap in Reactjs | Designing Homepage | React Noob to Pro",
+        "duration": 57
+    },
+    {
+        "videoTitle": "Movie App 2 | Lifecycle Methods, API calls, Pagination | React Noob to Pro",
+        "duration": 38
+    },
+    {
+        "videoTitle": "Movie App 3 | Favorite Page, Routing, localStorage | React Noob to Pro",
+        "duration": 65
+    },
+    {
+        "videoTitle": "Movie App 4 | Sorting, Searching, Filtering & Pagination | React Noob to Pro",
+        "duration": 48
+    },
+    {
+        "videoTitle": "Hooks (useState & useEffect) for complete 'Beginners' | React Noob to Pro",
+        "duration": 35
+    },
+    {
+        "videoTitle": "Context API for React | 'Easiest' explanation | React Noob to Pro",
+        "duration": 23
+    },
+    {
+        "videoTitle": "Firebase Intro | What? Why? How? | All Questions Answered",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Firebase Auth | How to use Authentication features without writing our own backend",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Firebase Firestore | Database of Firebase",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Firebase storage | How to upload pictures on firebase storage ?",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Reels Clone Intro | React Noob to Pro",
+        "duration": 2
+    },
+    {
+        "videoTitle": "Reels Clone 1 | UI & Routing for login signup | React Noob to Pro",
+        "duration": 48
+    },
+    {
+        "videoTitle": "Reels Clone 2 | Firebase Integrate, Context API, Private Routing | React Noob to Pro",
+        "duration": 59
+    },
+    {
+        "videoTitle": "Reels Clone 3 | Upload Video, Firebase storage & firestore | React Noob to Pro",
+        "duration": 40
+    },
+    {
+        "videoTitle": "Reels Clone 4 | Show video & like video | React Noob to Pro",
+        "duration": 42
+    },
+    {
+        "videoTitle": "Reels Clone 5 | Modal & Commets | React Noob to Pro",
+        "duration": 52
+    },
+    {
+        "videoTitle": "Reels Clone 6 | Profile Page and Nav Bar | React Noob to Pro",
+        "duration": 53
+    },
+    {
+        "videoTitle": "Reels Clone 7 | Intersection Observer Api & features | React Noob to Pro",
+        "duration": 23
+    },
+    {
+        "videoTitle": "Redux | Easiest explanation | React Noob to Pro",
+        "duration": 54
+    },
+    {
+        "videoTitle": "Shopping Cart App | Redux Application | React Noob to Pro",
+        "duration": 73
+    },
+    {
+        "videoTitle": "Thunk | What? Why? How? | React Noob to Pro",
+        "duration": 43
+    },
+    {
+        "videoTitle": "Resume Builder Intro | React + Redux +Firebase + Scss | React Noob to Pro",
+        "duration": 2
+    },
+    {
+        "videoTitle": "Resume Builder 1 | Overview | Components & Working Explained | React Noob to Pro",
+        "duration": 24
+    },
+    {
+        "videoTitle": "Resume Builder 2 | Redux | Defined Actions & Reducer | React Noob to Pro",
+        "duration": 54
+    },
+    {
+        "videoTitle": "Resume Builder 3 | Auth | Added Firebase with Redux | React Noob to Pro",
+        "duration": 69
+    },
+    {
+        "videoTitle": "Components in React | React Interview Prep",
+        "duration": 6
+    },
+    {
+        "videoTitle": "What is Virtual DOM ? React Interview Prep",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Controlled and Uncontrolled Components | React Interview Prep",
+        "duration": 11
+    },
+    {
+        "videoTitle": "What are LifeCycle Methods ? React Interview Prep",
+        "duration": 4
+    },
+    {
+        "videoTitle": "Proptypes in React | React Interview Prep",
+        "duration": 4
+    },
+    {
+        "videoTitle": "Higher Order Components | React Interview Prep",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Hooks useState useEffect w/ variation | React Interview Prep",
+        "duration": 35
+    },
+    {
+        "videoTitle": "Context with Interview Question | React Interview Prep",
+        "duration": 27
+    },
+    {
+        "videoTitle": "Routing with Interview Question | React Interview Prep",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Pure Components in React ? React Interview Prep",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Redux | React Interview Prep",
+        "duration": 54
+    },
+    {
+        "videoTitle": "Redux with Hooks | React Interview Prep",
+        "duration": 3
+    },
+    {
+        "videoTitle": "Context vs Redux | How to choose one ? React Interview Prep",
+        "duration": 11
+    },
+    {
+        "videoTitle": "useEffect vs useLayoutEffect | React Interview Prep",
+        "duration": 5
+    },
+    {
+        "videoTitle": "useState vs useReducer | React Interview Prep",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Memo useMemo useCallback | React Interview Prep",
+        "duration": 15
+    },
+    {
+        "videoTitle": "React Interview Assignment Projects | React Interview Prep",
+        "duration": 60
+    },
+    {
+        "videoTitle": "Introduction to backend for dummies| Backend using Express Mongodb & SQL l Web Development in Hindi",
+        "duration": 9
+    },
+    {
+        "videoTitle": "What is a server ? | Learn backend development in hindi",
+        "duration": 11
+    },
+    {
+        "videoTitle": "Create your own server using node.js | Learn backend development in Hindi",
+        "duration": 38
+    },
+    {
+        "videoTitle": "What are status codes ? | Learn backend development in hindi",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Implementing status code in server | How to redirect to another route ? | Learn backend development",
+        "duration": 11
+    },
+    {
+        "videoTitle": "Understanding all about NPM and package.json| | Learn backend development in hindi",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Intro to Express | Create your own server using Express| Learn backend development in hindi",
+        "duration": 23
+    },
+    {
+        "videoTitle": "What are HTTP methods ? | What is Postman ? | Learn backend development in hindi",
+        "duration": 25
+    },
+    {
+        "videoTitle": "Understanding URL Parameters and Queries in Express | Learn backend development in hindi",
+        "duration": 14
+    },
+    {
+        "videoTitle": "What is an API Understanding REST API Learn backend development in hindi",
+        "duration": 21
+    },
+    {
+        "videoTitle": "Mounting in Express | Creating a mini-app | Learn backend Development in Hindi",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Creating a SignUp form Learning Axios Learn backend Development in Hindi",
+        "duration": 22
+    },
+    {
+        "videoTitle": "What is a Middleware in Express | What,Why,How | Learn backend Development in Hindi",
+        "duration": 22
+    },
+    {
+        "videoTitle": "Introduction to MongoDB | what is NOSQL ? | Learn backend development in Hindi",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Setting up MongoDB and mongoose | Creating Schema | Learn backend development in Hindi",
+        "duration": 27
+    },
+    {
+        "videoTitle": "Learning CRUD operations | Learn backend development in Hindi",
+        "duration": 24
+    },
+    {
+        "videoTitle": "What are hooks in Mongoose ? | Mongoose middleware | Learn backend development in hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Learning all about Hashing | Website Security | Learn backend development in hindi",
+        "duration": 20
+    },
+    {
+        "videoTitle": "Learning cookies | Implementing cookies | Learn backend development in hindi",
+        "duration": 27
+    },
+    {
+        "videoTitle": "Ceating login function | Learn backend development in hindi",
+        "duration": 25
+    },
+    {
+        "videoTitle": "Learning Protect Route | Learn backend development in hindi",
+        "duration": 16
+    },
+    {
+        "videoTitle": "What is JWT ? | Implementing JWT | Learn backend development in hindi",
+        "duration": 36
+    },
+    {
+        "videoTitle": "Introduction to MVC architecture | Learn backend development in hindi",
+        "duration": 22
+    },
+    {
+        "videoTitle": "Implementing user operations | Part-1| Learn backend development in hindi",
+        "duration": 28
+    },
+    {
+        "videoTitle": "Implementing auth operations | Part-2 | Learn backend development in hindi",
+        "duration": 27
+    },
+    {
+        "videoTitle": "Using Postman on user and auth functions | | Learn backend development in hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Implementing Forget & Reset password functions | Part-3| Learn backend development in hindi",
+        "duration": 25
+    },
+    {
+        "videoTitle": "Attaching methods in mongoose Schema | Part-4 | Learn backend development in hindi",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Implementing logout | Part-5 | Learn backend development in hindi (Re-upload)",
+        "duration": 13
+    },
+    {
+        "videoTitle": "Creating schema for plans | Part-6 | Learn backend development in hindi",
+        "duration": 17
+    },
+    {
+        "videoTitle": "Creating routes for plans | Part-7 | Learn backend development in hindi",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Implementing controller for plans | Part-8 | Learn backend development in hindi",
+        "duration": 26
+    },
+    {
+        "videoTitle": "Using Postman on plan functions | Part-9 | Learn backend development in hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Creating schema for review | Part-10 | Learn backend development in hindi",
+        "duration": 13
+    },
+    {
+        "videoTitle": "Creating routes for review | Part-11 | Learn backend development in hindi",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Implementing controller for review | Part-12 | Learn backend development in hindi",
+        "duration": 22
+    },
+    {
+        "videoTitle": "Using Postman on review functions | Part-13 | Learn backend development in hindi",
+        "duration": 42
+    },
+    {
+        "videoTitle": "Using Stripe API for payments | Part-14 | Learn backend development in hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "What is multer ? | Multer in Express | Part-15 | Learn backend development in hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Sending email via Nodemailer | Part-16 | Learn backend development in hindi",
+        "duration": 19
+    },
+    {
+        "videoTitle": "What is CORS ? | Part-17 | Learn backend development in hindi",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Integration of frontend with backend | Part-18 | Learn backend development in hindi",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Website hosting using Heroku | Part-19 | Learn backend development in hindi",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Lets create Backend | Instagram | Backend Development | Login",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Lets create Backend | Instagram | Backend Development | Signup",
+        "duration": 16
+    },
+    {
+        "videoTitle": "Lets create Backend | Instagram | Backend Development | Posts",
+        "duration": 26
+    },
+    {
+        "videoTitle": "Lets create Backend | Instagram | Backend Development | Middleware",
+        "duration": 14
+    },
+    {
+        "videoTitle": "Lets create Backend | Instagram | Backend Development | Likes",
+        "duration": 17
+    },
+    {
+        "videoTitle": "Lets create Backend | Instagram | Backend Development | Comments",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Lets create Backend | Instagram | Backend Development | Friend Requests",
+        "duration": 37
+    },
+    {
+        "videoTitle": "The Brain of Node JS | Backend Interview Series",
+        "duration": 32
+    },
+    {
+        "videoTitle": "Streams in Node Js | Backend Interview Series",
+        "duration": 18
+    },
+    {
+        "videoTitle": "Node Js Interview Questions | Backend Interview Series",
+        "duration": 19
+    },
+    {
+        "videoTitle": "SetImmediate SetTimeout and Process.nextTick | Backend Interview Series",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Child Process Module in Node JS | Backend Interview Series",
+        "duration": 6
+    },
+    {
+        "videoTitle": "Event Emitter | Backend Interview Series",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Polyfill Of Event Emitter | Backend Interview Series",
+        "duration": 13
+    },
+    {
+        "videoTitle": "How Web Works | Backend Interview Series",
+        "duration": 33
+    },
+    {
+        "videoTitle": "Export Require | Backend Interview Series",
+        "duration": 34
+    },
+    {
+        "videoTitle": "Http Module in Node JS | Backend Interview Series",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Course Overview | Practical SQL series in Hindi",
+        "duration": 6
+    },
+    {
+        "videoTitle": "Understanding terminologies of Databases & installation| Practical SQL course in Hindi",
+        "duration": 17
+    },
+    {
+        "videoTitle": "Create and insert",
+        "duration": 25
+    },
+    {
+        "videoTitle": "SELECT, UPDATE AND DELETE",
+        "duration": 55
+    },
+    {
+        "videoTitle": "SQL Join in depth video | Left, Right Full and Cross Join | Practical SQL series in Hindi",
+        "duration": 33
+    },
+    {
+        "videoTitle": "Working on cloud with Sql | Practical SQL series in Hindi | Console",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Alter table Variations and Primary Key Foreign Key Explained | Practical SQL series in Hindi",
+        "duration": 24
+    },
+    {
+        "videoTitle": "Subqueries in SQL | Practical SQL series in Hindi",
+        "duration": 60
+    },
+    {
+        "videoTitle": "Triggers and functions",
+        "duration": 21
+    },
+    {
+        "videoTitle": "ER-Models And Schema Discussion 1",
+        "duration": 12
+    },
+    {
+        "videoTitle": "ER-Models And Schema Discussion 2",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Normalization | 1NF | 2NF | 3NF | BCNF | Practical SQL",
+        "duration": 25
+    },
+    {
+        "videoTitle": "Scheme Discussion - 1 Instagram | Practical SQL",
+        "duration": 11
+    },
+    {
+        "videoTitle": "Scheme Discussion - 2 Gym | Practical SQL",
+        "duration": 6
+    },
+    {
+        "videoTitle": "Scheme Discussion - 3 IRCTC | Railway Ticket Booking System | Practical SQL",
+        "duration": 10
+    },
+    {
+        "videoTitle": "Interview Questions Part-1 | Practical SQL series",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Interview Questions 2 | Practical SQL",
+        "duration": 7
+    },
+    {
+        "videoTitle": "Interview Questions 3 | Practical SQL",
+        "duration": 5
+    },
+    {
+        "videoTitle": "Interview Questions 4 | Practical SQL",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Instagram reels database design and implementation | Practical SQL",
+        "duration": 38
+    },
+    {
+        "videoTitle": "Intro to GIT and VCS",
+        "duration": 11
+    },
+    {
+        "videoTitle": "Types of VCS",
+        "duration": 9
+    },
+    {
+        "videoTitle": "What is GIT ?",
+        "duration": 10
+    },
+    {
+        "videoTitle": "Installation of GIT on MacOs and Windows",
+        "duration": 5
+    },
+    {
+        "videoTitle": "Understanding lifecycle of GIT files | Hello GIT | Learning GIT from basics",
+        "duration": 6
+    },
+    {
+        "videoTitle": "GIT commands & Github| Hello GIT | Learning GIT from basics",
+        "duration": 31
+    },
+    {
+        "videoTitle": "How to clone from Github ? | What is git clone ? | Hello GIT | Learning GIT from basics",
+        "duration": 19
+    },
+    {
+        "videoTitle": "What is gitignore ? | How to use gitignore | Hello GIT | Learning GIT from basics",
+        "duration": 18
+    },
+    {
+        "videoTitle": "How to remove a file from git ?|How to unstage a file ?| git rm| Hello GIT| Learning GIT from basics",
+        "duration": 11
+    },
+    {
+        "videoTitle": "git commit amend | Git and Github Tutorial | Rewriting History | Hello GIT |Learning GIT from basics",
+        "duration": 12
+    },
+    {
+        "videoTitle": "git reset HEAD | Git and Github Tutorial | Rewriting History | Hello GIT | Learning GIT from basics",
+        "duration": 8
+    },
+    {
+        "videoTitle": "git checkout |git stash|Git and Github Tutorial|Rewriting History|Hello GIT|Learning GIT from basics",
+        "duration": 11
+    },
+    {
+        "videoTitle": "git restore | Git and Github Tutorial | Rewriting History | Hello GIT | Learning GIT from basics",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Aliasing in GIT| Git and Github Tutorial | Rewriting History | Hello GIT | Learning GIT from basics",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Learning all about branches in GIT | Git and Github Tutorial | Learning GIT from basics",
+        "duration": 12
+    },
+    {
+        "videoTitle": "Types of merge in branches|Deleting branch|Git and Github Tutorial|Hello GIT|Learning GITfrom basics",
+        "duration": 27
+    },
+    {
+        "videoTitle": "Beautifying git log command| | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 2
+    },
+    {
+        "videoTitle": "Resolving merge conflicts | | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 13
+    },
+    {
+        "videoTitle": "Using git fetch | | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 19
+    },
+    {
+        "videoTitle": "Learning git pull | | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 4
+    },
+    {
+        "videoTitle": "What is rebase | | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 10
+    },
+    {
+        "videoTitle": "Disadvantages of using rebase | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 9
+    },
+    {
+        "videoTitle": "Using git fork | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 13
+    },
+    {
+        "videoTitle": "What is git reset | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 15
+    },
+    {
+        "videoTitle": "Learning git revert | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 13
+    },
+    {
+        "videoTitle": "git cherry pick | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 8
+    },
+    {
+        "videoTitle": "Learning git reflog | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 3
+    },
+    {
+        "videoTitle": "Learning all about git rebase | squash , pick, drop, fix | Git and Github Tutorial | Hello GIT |",
+        "duration": 10
+    },
+    {
+        "videoTitle": "git diff | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 7
+    },
+    {
+        "videoTitle": "how does git store data internally | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 1
+    },
+    {
+        "videoTitle": "git upstream | Git and Github Tutorial | Hello GIT | Learning GIT from basics",
+        "duration": 1
+    }
+]
